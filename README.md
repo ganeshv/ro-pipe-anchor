@@ -10,7 +10,7 @@ Standard RO exhaust lines are often just pushed through a hole in the counter an
 ## The Solution
 This design provides a solid anchor point at the counter level:
 1. **Counter Conduit (Part 1):** Sits flush in a 15mm counter hole, extending down to help guide the tube toward the drain. The lower portion features a compressible collet section that self-centers and grips the inside of the counter hole.
-2. **Collet (Part 2):** A tapered collet mechanism (similar to a drill chuck or rotary tool) fits into the conduit. The conduit has a taper, so the more you push the collet in, the teeth come together and grip the 6.5mm RO pipe passing through it firmly, preventing it from slipping up or down. 
+2. **Collet (Part 2):** A tapered collet mechanism (similar to a drill chuck or rotary tool) fits into the conduit. The conduit has a tapered bore inside, so the more you push the collet in, its fingers come together and grip the 6.5mm RO pipe passing through it firmly, preventing it from slipping up or down. 
 2. **Cap (Part 3):** Screws onto the top of the conduit, sandwiching the collet. As you tighten the cap, the collet is pushed in, tightening the grip on the pipe.
 
 ## Features
